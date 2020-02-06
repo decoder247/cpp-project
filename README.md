@@ -16,3 +16,6 @@ Ideas:
 * Simple Games
 * MySQL introductory project
 * [Text based CV scanner](https://www.skyfilabs.com/blog/best-computer-vision-projects-for-engineering-students)
+
+* Calculator
+* Conway's game of life
