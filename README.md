@@ -1,7 +1,26 @@
 # cpp-project
-Ideas for future cpp projects
+*Ideas for future cpp projects*
 
-Project Ideas:
+## Table of Contents
+| Index | Section                      |
+|:-----:|------------------------------|
+| 1.    | [To-do list](#secA)          |
+| 2.    | [Formatting of Notes](#secB) |
+
+---  
+## <a name="secA"></a>1. cpp project To-do list
+🟠 1 **SFML**: Research how to install library  
+🟠 2 **cpp VScode setup**: Refresher of how cpp coding works in github  
+
+    Continue environment setup:  
+    env_dirs consideration. Either uninstall miniconda & reinstall for user, continue as is, try and relocate .condarc, or run as admin for environment creation.
+  
+  
+|⭕ - 0%  |  🟠 - Started  |  🟡 - Ongoing  |  🟢 - Almost  |  ✅ - 100%  |
+
+---  
+ 
+## <a name="secB"></a>2. Project Ideas
 * [Quora - cool cpp projects](https://www.quora.com/What-are-some-cool-C++-programming-projects)
 * [Hackernoon - cpp projects](https://hackernoon.com/how-to-improve-your-c-skills-from-awesome-projects-251b300ed5a1)
 * [YT channel ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
@@ -19,3 +38,4 @@ Ideas:
 
 * Calculator
 * Conway's game of life
+
