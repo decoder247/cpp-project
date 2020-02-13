@@ -38,4 +38,4 @@ Ideas:
 
 * Calculator
 * Conway's game of life
-
+* Improving on RBTray's source code to fix active bugs
